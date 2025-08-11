@@ -8,6 +8,7 @@ A machine learning project for predicting avocado market prices.
 
 ---
 
+
 ## 📈 Project Overview
 
 This repository demonstrates how to use regression techniques to predict avocado prices based on historical market data. The project includes an interactive Jupyter notebook and a dataset of avocado sales from various regions.
